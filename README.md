@@ -1,6 +1,5 @@
 
-[![Visit Nytheon AI](https://nytheon-ai.online/)
-
+[![Visit Nytheon AI](https://img.shields.io/badge/🌐_Visit_Nytheon_AI-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nytheon-ai.online/)
 > 💡 **Tip:** Nytheon AI is entirely cloud-based — no installation required. Access its powerful capabilities instantly through any modern web browser.
 
 Nytheon AI is a cloud-native, all-in-one intelligence solution designed to empower individuals and enterprises with the power of artificial reasoning, language understanding, and real-time automation. Whether you're managing customer conversations, analyzing complex datasets, or orchestrating business workflows, Nytheon provides intuitive, responsive, and deeply contextual AI support.
